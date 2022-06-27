@@ -1,5 +1,6 @@
-import lb_helper
+# import lb_helper
 import numpy as np
+from . import lb_helper
 
 idxs_grid = np.array([[8, 1, 2], [7, 0, 3], [6, 5, 4]])
 

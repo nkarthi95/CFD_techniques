@@ -1,4 +1,5 @@
-import boundaries
+# import boundaries
+from . import boundaries
 import numpy as np
 # https://stackoverflow.com/questions/12638790/drawing-a-rectangle-inside-a-2d-numpy-array
 # https://medium.com/swlh/create-your-own-lattice-boltzmann-simulation-with-python-8759e8b53b1c
